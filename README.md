@@ -19,7 +19,7 @@ A lightweight, command-line habit tracking tool written in Python. This app help
 ## 🗂 Folder Structure
 
 ```
-simple-habit-tracker/
+habit-tracker/
 │
 ├── main.py                      # CLI Entry point
 ├── habit_manager.py             # Core logic for habit management
