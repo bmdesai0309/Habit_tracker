@@ -4,7 +4,7 @@ A lightweight, command-line habit tracking tool written in Python. This app help
 
 ---
 
-## ✅ Features
+## Features
 
 - Add and store multiple daily habits
 - Mark habits as completed for today
@@ -16,7 +16,7 @@ A lightweight, command-line habit tracking tool written in Python. This app help
 
 ---
 
-## 🗂 Folder Structure
+## Folder Structure
 
 ```
 habit-tracker/
@@ -35,14 +35,14 @@ habit-tracker/
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
-### 🐍 Requirements
+### Requirements
 
 - Python 3.7+
 - No external libraries needed (uses built-in `json`, `datetime`, `unittest`, and `mock`)
 
-### 📥 Installation
+### Installation
 
 1. Clone or download the repository:
    ```bash
@@ -62,7 +62,7 @@ habit-tracker/
 
 ---
 
-## ▶️ Running the Application
+## Running the Application
 
 From the project root, run:
 
@@ -87,7 +87,7 @@ Follow the prompts to interact with your habits.
 
 ---
 
-## 🧪 Running Tests
+## Running Tests
 
 To run all unit tests:
 
@@ -99,13 +99,7 @@ You’ll see test output confirming if all features are functioning correctly.
 
 ---
 
-## 📜 License
-
-This project is for academic use only, developed as part of a Software Engineering residency project.
-
----
-
-## 🙌 Author
+## Author
 
 **Balmukund Desai**  
 CU Software Engineering Residency Project  
